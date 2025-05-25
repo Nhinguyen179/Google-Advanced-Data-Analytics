@@ -1,2 +1,13 @@
+1- Exploratory data analysis 
+-EDA: investigating, organizing and analyzing datasets -> summarize main characteristics 
+-6 EDA practices:  
+• Discovering: familiarize with each column meaning 
+• Structuring: Transform and organize raw data to be more easily visualized, explained 
+and modelled. It’s important to avoid bias (grouping data that does not represent the 
+whole population) 
+• Cleaning: Remove errors that may distort data or make it less useful 
+• Joining: augmenting or adjusting data by adding values from other datasets 
+• Validating: verify that data is consistent and high quality 
+• Presenting: make your cleaned dataset / data visualizations available to others for 
+analysis or further modelling -> The process is iterative and non-sequential. A real example:
 
-[1-Exploratory data analysis.pdf](https://github.com/user-attachments/files/20431541/1-Exploratory.data.analysis.pdf)
