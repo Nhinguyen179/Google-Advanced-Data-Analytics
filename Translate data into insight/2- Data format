@@ -1,0 +1,8 @@
+-Data formats: Tabular, XML, CSV, Excel, DB, JSON
+-Data type: 
+•	First-party: gathered from inside your organization
+•	Second-party: gathered from outside your organization but directly from the original source
+•	Third-party: gathered from outside your organization but aggregated
+-Big Query: Google's data warehouse
+https://console.cloud.google.com/bigquery?inv=1&invt=AbyWUA&project=bigquery-test-460820&supportedpurview=project&ws=!1m10!1m4!4m3!1sbigquery-public-data!2ssan_francisco_trees!3sstreet_trees!1m4!1m3!1sbigquery-test-460820!2sbquxjob_3a9b4256_197040cea17!3sUS
+
